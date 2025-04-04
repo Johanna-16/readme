@@ -13,7 +13,7 @@ File of all the projects completed using technics learnt in ECOR 1042. Skills us
 
 ## Dependencies
 Python libraries used for histogram -> <br />
-matplotlib.pyplot as plt
+matplotlib.pyplot as plt <br />
 math
 
 Python libraries used for curve_fit -> <br />
