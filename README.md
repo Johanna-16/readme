@@ -9,7 +9,7 @@ Functions: histogram, curve_fit
 Version: 1.0
 
 ## Description
-File of all the projects completed using technics learnt in ECOR 1042. Skills used includes different types of sorting (selection/ bubble/ insertsion), creating user interface, converting data into dictionaries, and plotting graphs.
+File of all the projects completed using techniques learned in ECOR 1042. Skills include sorting (selection/ bubble/insertion), creating the user interface, converting data into dictionaries, and plotting graphs.
 
 ## Dependencies
 Python libraries used for histogram -> <br />
@@ -36,7 +36,7 @@ vid
 
 ## Credits
 #### Team Members <br />
-Victoria Tucker, Karuna Balaram, Scholes Hayden
+Victoria Tucker, Karuna Balaram, Scholes Hayden, Johanna Liu
 
 #### load_data.py <br />
 student_school_list -> Created by: Victoria Tucker <br />
