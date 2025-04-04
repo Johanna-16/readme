@@ -56,7 +56,11 @@ Created Karuna Balaram
 #### batch_UI.py <br />
 Created by: Scholes Hayden
 
-#### batch_UI.py <br />
+#### histogram.py <br />
+Created by: Victoria Tucker
+
+#### curve_fit.py <br />
+Created by: Johanna Liu
 
 ## License
 MIT
