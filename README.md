@@ -20,13 +20,13 @@ Python libraries used for curve_fit -> <br />
 numpy
 
 Created libraries used for batch_UI -> <br />
-load_data as LD
-sort as Sort
-curve_fit as CF
+load_data as LD <br />
+sort as Sort <br />
+curve_fit as CF <br />
 histogram as Hist
 
 Created libraries used for text_UI -> <br />
-curve_fit as cf
+curve_fit as cf <br />
 histogram as hist
 
 ## Installation
