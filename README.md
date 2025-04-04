@@ -51,7 +51,7 @@ sort_students_avg_insertion -> Created by: Karuna Balaram <br />
 sort_students_failures_bubble -> Created by: Johanna Liu <br />
 
 #### text_UI.py <br />
-Created Karuna Balaram
+Created by: Karuna Balaram
 
 #### batch_UI.py <br />
 Created by: Scholes Hayden
