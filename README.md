@@ -1,5 +1,5 @@
 # ECOR 1043 Team Project
-Created on: April 4, 2025
+Created on: April 4, 2025 <br />
 Contact: Johanna Liu
 
 ## Softwares
@@ -35,8 +35,28 @@ histogram as hist
 vid
 
 ## Credits
-#### load_data.py <br />
+#### Team Members <br />
+Victoria Tucker, Karuna Balaram, Scholes Hayden
 
+#### load_data.py <br />
+student_school_list -> Created by: Victoria Tucker <br />
+student_health_list -> Created by: Scholes Hayden <br />
+student_failures_list -> Created by: Karuna Balaram <br />
+student_age_list -> Created by: Johanna Liu <br />
+
+#### sort.py <br />
+sort_students_age_bubble -> Created by: Victoria Tucker <br />
+sort_students_time_selection -> Created by: Scholes Hayden <br />
+sort_students_avg_insertion -> Created by: Karuna Balaram <br />
+sort_students_failures_bubble -> Created by: Johanna Liu <br />
+
+#### text_UI.py <br />
+Created Karuna Balaram
+
+#### batch_UI.py <br />
+Created by: Scholes Hayden
+
+#### batch_UI.py <br />
 
 ## License
 MIT
