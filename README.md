@@ -12,20 +12,20 @@ Version: 1.0
 File of all the projects completed using technics learnt in ECOR 1042. Skills used includes different types of sorting (selection/ bubble/ insertsion), creating user interface, converting data into dictionaries, and plotting graphs.
 
 ## Dependencies
-Python libraries used for histogram:
+Python libraries used for histogram -> <br />
 matplotlib.pyplot as plt
 math
 
-Python libraries used for curve_fit:
+Python libraries used for curve_fit -> <br />
 numpy
 
-Python libraries used for batch_UI:
+Created libraries used for batch_UI -> <br />
 load_data as LD
 sort as Sort
 curve_fit as CF
 histogram as Hist
 
-Python libraries used for text_UI:
+Created libraries used for text_UI -> <br />
 curve_fit as cf
 histogram as hist
 
@@ -35,6 +35,8 @@ histogram as hist
 vid
 
 ## Credits
+#### load_data.py <br />
+
 
 ## License
 MIT
