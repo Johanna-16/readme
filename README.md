@@ -12,7 +12,7 @@ Version: 1.0
 File of all the projects completed using techniques learned in ECOR 1042. Skills include sorting (selection/ bubble/insertion), creating the user interface, converting data into dictionaries, and plotting graphs.
 
 ## Dependencies
-* If the file is not noted, it has no dependencies
+** If the file is not noted, it has no dependencies
 
 Python libraries used for histogram -> <br />
 matplotlib.pyplot as plt <br />
