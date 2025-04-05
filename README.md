@@ -15,11 +15,11 @@ File of all the projects completed using techniques learned in ECOR 1042. Skills
 ## Dependencies
 ** If the file is not noted, it has no dependencies
 
-##### Python libraries used for histogram <br />
+#### Python libraries used for histogram <br />
 matplotlib.pyplot as plt <br />
 math
 
-##### Python libraries used for curve_fit <br />
+#### Python libraries used for curve_fit <br />
 numpy
 
 ##### Created libraries used for batch_UI <br />
@@ -28,7 +28,7 @@ sort as Sort <br />
 curve_fit as CF <br />
 histogram as Hist
 
-##### Created libraries used for text_UI <br />
+#### Created libraries used for text_UI <br />
 curve_fit as cf <br />
 histogram as hist
 
