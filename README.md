@@ -1,6 +1,6 @@
 # ECOR 1042 Team Project
 Created on: April 4, 2025 <br />
-Contact: Johanna Liu 
+Contact: Johanna Liu <br />
 Email: johannaliu@cmail.carleton.ca
 
 ## Softwares
