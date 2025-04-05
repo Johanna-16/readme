@@ -1,6 +1,7 @@
 # ECOR 1042 Team Project
 Created on: April 4, 2025 <br />
-Contact: Johanna Liu
+Contact: Johanna Liu 
+Email: johannaliu@cmail.carleton.ca
 
 ## Softwares
 Modules: load_data, sort, text_UI, batch_UI
