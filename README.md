@@ -87,4 +87,4 @@ Created by: Victoria Tucker
 Created by: Johanna Liu
 
 ## License
-[MIT] https://choosealicense.com/licenses/mit/ 
+[MIT](https://choosealicense.com/licenses/mit/)
