@@ -12,6 +12,8 @@ Version: 1.0
 File of all the projects completed using techniques learned in ECOR 1042. Skills include sorting (selection/ bubble/insertion), creating the user interface, converting data into dictionaries, and plotting graphs.
 
 ## Dependencies
+* If the file is not noted, it has no dependencies
+
 Python libraries used for histogram -> <br />
 matplotlib.pyplot as plt <br />
 math
@@ -30,7 +32,29 @@ curve_fit as cf <br />
 histogram as hist
 
 ## Installation
+Python version 3.10 and newer is required for all programs.
 
+Python version used: Python 3.13.2
+
+#### 1. Download the files <br />
+Download the preferred files from Brightspace
+#### 2. Extract the files <br />
+Unzip the downloaded files on your computer to a location of your choice.
+#### 3. Upload or open the files <br />
+Upload or open the files in your preferred IDE.
+#### 4. Install Required Dependencies <br />
+** Please check the dependencies section for more information about the dependencies of each file <br />
+Download the additional files needed for the program and/or install all the required packages.
+
+To download Matplotlib and NumPy, refer to the file "Installing Matplotlib, Numpy and Scipy" in the ECOR 1042 Brightspace under "Lectures".
+
+#### 5. Use the code! <br />
+You should now be able to use the modules or functions. Try to use the 'import' command in your code!
+
+Example. Importing the load_data module and referring to it as LD
+```python
+import load_data as LD
+```
 ## Usage
 vid
 
@@ -63,4 +87,4 @@ Created by: Victoria Tucker
 Created by: Johanna Liu
 
 ## License
-MIT
+[MIT] https://choosealicense.com/licenses/mit/ 
