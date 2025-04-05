@@ -51,7 +51,7 @@ To download Matplotlib and NumPy, refer to the file "Installing Matplotlib, Nump
 #### 5. Use the code! <br />
 You should now be able to use the modules or functions. Try to use the 'import' command in your code!
 
-Example. Importing the load_data module and referring to it as LD
+Example: Importing the load_data module and referring to it as LD
 ```python
 import load_data as LD
 ```
